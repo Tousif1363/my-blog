@@ -14,7 +14,7 @@ animated_fins:    true
 # Specify the fin color in RGB value
 fin_color:        "33,81,122" #21517A
 # Change url to your domain. Leave localhost server or blank when working locally.
-url:          http://hmfaysal.me/hmfaysal-omega-theme
+url:          http://tousif1363.github.io/my-blog
 # baseurl:           
 
 excerpt_separator: <!--excerpt-->
