@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2016-12-19T22:35:53+05:30</updated><id>http://localhost:4000//</id><title type="html">Quickie Post</title><subtitle>I am short on time; I am guessing you are short on time. So, lets do this quick.</subtitle><author><name>Tousif</name><email>busyachiever@email.com</email></author><entry><title type="html">How Pablo made creating social media posts easy</title><link href="http://localhost:4000/blog/how-pablo-made-creating-social-media-posts-easy" rel="alternate" type="text/html" title="How Pablo made creating social media posts easy" /><published>2016-12-19T00:00:00+05:30</published><updated>2016-12-19T00:00:00+05:30</updated><id>http://localhost:4000/blog/how-pablo-made-creating-social-media-posts-easy</id><content type="html" xml:base="http://localhost:4000/blog/how-pablo-made-creating-social-media-posts-easy">&lt;p&gt;We have all heard social media experts emphasizing the importance of images 
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2016-12-20T09:40:14+05:30</updated><id>http://localhost:4000//</id><title type="html">Quickie Post</title><subtitle>I am short on time; I am guessing you are short on time. So, lets do this quick.</subtitle><author><name>Tousif</name><email>busyachiever@email.com</email></author><entry><title type="html">How Pablo made creating social media posts easy</title><link href="http://localhost:4000/blog/how-pablo-made-creating-social-media-posts-easy" rel="alternate" type="text/html" title="How Pablo made creating social media posts easy" /><published>2016-12-20T00:00:00+05:30</published><updated>2016-12-20T00:00:00+05:30</updated><id>http://localhost:4000/blog/how-pablo-made-creating-social-media-posts-easy</id><content type="html" xml:base="http://localhost:4000/blog/how-pablo-made-creating-social-media-posts-easy">&lt;p&gt;Do you create image posts for social media?&lt;/p&gt;
+
+&lt;p&gt;Well, we have all heard social media experts emphasizing the importance of images 
 to gain impressions/views in social media. 
 &lt;br /&gt;However, creating an image post is quite cumbersome in Photoshop. Frankly, it just takes too much time.&lt;/p&gt;
 
@@ -23,8 +25,8 @@ photos that are free to use. Pablo uses Unsplash by default to set background im
   &lt;li&gt;&lt;b&gt;Writing the text&lt;/b&gt;: The text section is divided into header, body and caption. 
 It also generates random inspirational quotes for you.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;Setting your logo&lt;/b&gt;: Upload your logo once and forget about it. You have the option to 
-hide it , change the size and add radius to make it rounded.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sharing the post&lt;/b&gt;: 1.	One click share to 
+hide it, change the size and add radius to make it rounded.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sharing the post&lt;/b&gt;: One click share to 
 Twitter, Facebook, Pinterest and Instagram; You can also download or buffer the post.&lt;/li&gt;
 &lt;/ol&gt;
 
@@ -36,11 +38,13 @@ Twitter, Facebook, Pinterest and Instagram; You can also download or buffer the 
 &lt;p&gt;Even writing the text can be eliminated by using 
 the &lt;a href=&quot;https://chrome.google.com/webstore/detail/pablo/gfpibnlcombjoeejlongmihndgkpnjjo&quot; title=&quot;Pablo extension for Chrome&quot; target=&quot;_blank&quot;&gt;Pablo extension for Chrome&lt;/a&gt; .&lt;/p&gt;
 
-&lt;p&gt;Still can’t believe it’s that simple. Give it a try : &lt;a href=&quot;https://pablo.buffer.com/&quot; title=&quot;Pablo&quot; target=&quot;_blank&quot;&gt;Pablo&lt;/a&gt; . &lt;br /&gt;I bet you won’t regret it.&lt;/p&gt;
-
 &lt;blockquote&gt;
   &lt;p&gt;&quot;Art is the elimination of the unnecessary.&quot;
 &lt;small&gt;&lt;cite title=&quot;Pablo Picasso&quot;&gt;Pablo Picasso&lt;/cite&gt;&lt;/small&gt;&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name>Tousif</name><email>busyachiever@email.com</email></author><category term="image tools" /><category term="pablo" /><category term="buffer" /><category term="social media" /><summary type="html">We have all heard social media experts emphasizing the importance of images 
+&lt;/blockquote&gt;
+
+&lt;p&gt;Still can’t believe it’s that simple. Give it a try : &lt;a href=&quot;https://pablo.buffer.com/&quot; title=&quot;Pablo&quot; target=&quot;_blank&quot;&gt;Pablo&lt;/a&gt; . &lt;br /&gt;I bet you won’t regret it.&lt;/p&gt;</content><author><name>Tousif</name><email>busyachiever@email.com</email></author><category term="image tools" /><category term="pablo" /><category term="buffer" /><category term="social media" /><summary type="html">Do you create image posts for social media?
+
+Well, we have all heard social media experts emphasizing the importance of images 
 to gain impressions/views in social media. 
 However, creating an image post is quite cumbersome in Photoshop. Frankly, it just takes too much time.</summary></entry></feed>
