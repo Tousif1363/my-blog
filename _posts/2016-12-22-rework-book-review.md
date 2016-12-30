@@ -15,7 +15,7 @@ Daily Book Reviews:
     <a href="{{ site.url }}/images/gallery/big_picture_rework.png"><img src="{{ site.url }}/images/gallery/big_picture_rework.png"></a>
 </figure>
 
-[See the Moment on Twitter](http://bit.ly/rework_twitter_moment "See the Moment on Twitter"){:target="_blank"}
+[See the Moment on Twitter](http://bit.ly/twitter_moment_rework "See the Moment on Twitter"){:target="_blank"}
 
 <a href="https://twitter.com/busyachiever" class="twitter-follow-button" data-show-count="false">Follow @busyachiever</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
