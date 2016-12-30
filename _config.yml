@@ -1,6 +1,6 @@
 title:            Quickie Post
 description:      I am short of time; I am guessing you are short of time. So, lets do this quick. #Site description for the metas.
-logo:             qp.png
+logo:             /gallery/qp.png
 disqus_shortname: http-www-quickiepost-com
 # Assign a default image for your site's header and footer
 default_bg:       default_bg.jpg
