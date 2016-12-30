@@ -6,6 +6,7 @@ description: "Rework by Jason Fried (book review)"
 category: book review
 tags: [book review, rework]
 imagefeature: /gallery/rework-review.png
+image: /gallery/big_picture_rework.png
 comments: true
 mathjax: 
 ---

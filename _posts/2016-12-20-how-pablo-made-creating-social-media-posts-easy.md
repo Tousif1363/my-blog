@@ -7,6 +7,7 @@ modified: 2016-12-20                # Date
 category: image tools
 tags: [pablo, buffer, social media]
 imagefeature: /gallery/pablo_bg.jpg
+image: /gallery/pablo_posts.png
 comments: true
 mathjax:
 ---

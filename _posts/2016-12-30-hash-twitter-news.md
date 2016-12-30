@@ -7,6 +7,7 @@ modified: 2016-12-30                # Date
 category: news tools
 tags: [hash, news, twitter]
 imagefeature: /gallery/hash_bg.png
+image: /gallery/hash1.png
 comments: true
 mathjax:
 ---
