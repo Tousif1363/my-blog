@@ -19,11 +19,11 @@ Hash solves this problem by presenting the most important news of that day along
 
 You might be imagining: "Alright, so it good at organizing news." 
 <br>Well, it is remarkably good at that. But wait there is more:
-  * There is no need to log in, for you to read the highlights.
-  * It has a tastefully designed interface, that makes reading the news uber-fun.
-  * Every story includes a brief from Wiki, to give you a quick overview and as you scroll down you can read the tweets related to that hashtag.
-  * Apart from the big stories, you can also read news about different categories like Music, Technology, Talk Shows, Finance, Sports, Travel, Photography, Fashion.
-  * You can also subscribe to get a daily round of the news in your mailbox.
+  *   There is no need to log in, for you to read the highlights.
+  *   It has a tastefully designed interface, that makes reading the news uber-fun.
+  *   Every story includes a brief from Wiki, to give you a quick overview and as you scroll down you can read the tweets related to that hashtag.
+  *   Apart from the big stories, you can also read news about different categories like Music, Technology, Talk Shows, Finance, Sports, Travel, Photography, Fashion.
+  *   You can also subscribe to get a daily round of the news in your mailbox.
 
 <figure>
     <a href="{{ site.url }}/images/gallery/hash1.png"><img src="{{ site.url }}/images/gallery/hash1.png"></a>
